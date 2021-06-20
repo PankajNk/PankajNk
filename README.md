@@ -1,4 +1,4 @@
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://isl.co/wp-content/uploads/2017/06/python-Converted600x600.gif)
 
 
 I'm Pankaj Naik ,student at Mangalore University final year M.Sc Computer Science .
