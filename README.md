@@ -1,5 +1,5 @@
-!(https://isl.co/wp-content/uploads/2017/06/python-Converted600x600.gif width="400" height="790")
 
+<img src="https://isl.co/wp-content/uploads/2017/06/python-Converted600x600.gif" width="250" height="250"/>
 
 I'm Pankaj Naik ,student at Mangalore University final year M.Sc Computer Science .
 Data Science and Machine Learning enthusiastic.
