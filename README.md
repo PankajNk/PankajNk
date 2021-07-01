@@ -1,4 +1,4 @@
-![](https://isl.co/wp-content/uploads/2017/06/python-Converted600x600.gif  width="250" height="250")
+![](https://isl.co/wp-content/uploads/2017/06/python-Converted600x600.gif width="400" height="790")
 
 
 I'm Pankaj Naik ,student at Mangalore University final year M.Sc Computer Science .
