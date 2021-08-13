@@ -17,6 +17,6 @@ Python | Data Science  | Machine Learning | Data Analysis | Problem Solving
 
 
 
-<a href=”https://www.linkedin.com/in/pankaj-naik-50503217a"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href=”https://www.linkedin.com/in/pankaj-naik-50503217a"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e5050?style=plastic&logo=linkedIn)</a>
 
 [![Twitter](https://img.shields.io/twitter/url?style=for-the-badge)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpankaj-naik-50503217a)
