@@ -13,7 +13,8 @@ Python | Data Science  | Machine Learning | Data Analysis | Problem Solving
 
 <img src="https://isl.co/wp-content/uploads/2017/06/python-Converted600x600.gif" width="250" height="250"/>
 
-![PankajNk’ GitHub stats](https://github-readme-stats.vercel.app/api?username=PankajNk&theme=synthwave&show_icons=true&count_private=true “PankajNk’ GutHub Stats”)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PankajNk)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
