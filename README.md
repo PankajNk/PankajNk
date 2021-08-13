@@ -13,7 +13,7 @@ Python | Data Science  | Machine Learning | Data Analysis | Problem Solving
 
 <img src="https://isl.co/wp-content/uploads/2017/06/python-Converted600x600.gif" width="250" height="250"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajNk&theme=synthwave “Andres’ Top Languages Card”)
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=PankajNk&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
 
 
 
