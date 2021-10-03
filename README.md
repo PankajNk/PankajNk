@@ -7,6 +7,7 @@ Loves participated in Hackathon and Challenges(but as Noob).
 Loves playing Cricket and Jogging.
 Represented Karnataka&Goa in National Level Camp (All India Nau-Sainik Camp ).
 
+Currently working on Research Project to improve the accuaracy of Earthquake Predication Using Neural Network
 ## Skill
 Python | Data Science  | Machine Learning | Data Analysis | Problem Solving
 [![pp's GitHub stats](https://github-readme-stats.vercel.app/api?username=PankajNk&count_private=true&theme=dark)]
