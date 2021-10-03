@@ -1,7 +1,7 @@
 
 I'm Pankaj Naik ,student at Mangalore University final year M.Sc Computer Science .
 
-Data Science and Machine Learning enthusiastic.I have strong mathematics Knowledge and implemented many use cases.
+Data Science and Machine Learning enthusiastic.I have strong Mathematics knowledge and implemented many use cases.
 Having knowledge in Deep Learning .
 
 Loves participated in Hackathon and Challenges(but as Noob).Loves playing Cricket and Jogging.
