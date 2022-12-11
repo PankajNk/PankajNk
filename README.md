@@ -5,7 +5,6 @@ Data Science and Machine Learning enthusiastic.I have strong Mathematics knowled
 Having knowledge in Deep Learning .
 
 Loves participated in Hackathon and Challenges(but as Noob).Loves playing Cricket and Jogging.
-Represented Karnataka&Goa in National Level Camp (All India Nau-Sainik Camp ).
 
 Currently working on Research Project to improve the accuaracy of Earthquake Predication Using Neural Network
 ## Skill
