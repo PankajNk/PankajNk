@@ -14,7 +14,7 @@ Python | Data Science  | Machine Learning | Data Analysis | Problem Solving
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PankajNk&repo=github-readme-stats)](https://github.com/PankajNk/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PankajNk&repo=DataExplore)](https://github.com/PankajNk/DataExplore)
 
 
 
