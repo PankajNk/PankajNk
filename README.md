@@ -1,4 +1,9 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PankajNk.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+<h1 align="center">Hi 👋, I'm Pankaj Naik</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 
