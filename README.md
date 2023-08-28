@@ -1,15 +1,10 @@
 
-I'm Pankaj Naik ,student at Mangalore University final year M.Sc Computer Science .
 
-Data Science and Machine Learning enthusiastic.I have strong Mathematics knowledge and implemented many use cases.
-Having knowledge in Deep Learning .
-
-Loves participated in Hackathon and Challenges(but as Noob).Loves playing Cricket and Jogging.
 
 
 ## Skill
 Python | Data Science  | Machine Learning | Data Analysis | Problem Solving
-[![pp's GitHub stats](https://github-readme-stats.vercel.app/api?username=PankajNk&count_private=true&theme=dark)]
+[![pp's GitHub stats](https://github-readme-stats.vercel.app/api?username=PankajNk&count_private=true&theme=gruvbox)]
 
 <img align="left" src="https://isl.co/wp-content/uploads/2017/06/python-Converted600x600.gif" width="350" height="250"/>
 
