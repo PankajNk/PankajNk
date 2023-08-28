@@ -18,11 +18,9 @@ Python | Data Science  | Machine Learning | Data Analysis | Problem Solving
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PankajNk&repo=Covid19_Python_Webscraping)](https://github.com/PankajNk/Covid19_Python_Webscraping)
 
-<br>
-<br>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PankajNk&repo=Chatbot)](https://github.com/PankajNk/Chatbot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PankajNk&repo=Machine_Learning)](https://github.com/PankajNk/Machine_Learning)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajNk)](https://github.com/PankajNk)
