@@ -14,7 +14,7 @@
 <h3 align="left">My Git Status</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajnk&" alt="pankajnk" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajnk&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="pankajnk" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajnk&show_icons=true&locale=en" alt="pankajnk" /></p>
 
 <br>
