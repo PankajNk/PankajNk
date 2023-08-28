@@ -23,4 +23,4 @@ Python | Data Science  | Machine Learning | Data Analysis | Problem Solving
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PankajNk&repo=Machine_Learning)](https://github.com/PankajNk/Machine_Learning)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajNk)](https://github.com/PankajNk)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajNk&hide_progress=true)
