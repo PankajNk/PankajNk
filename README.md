@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Naik</h1>
-<h3 align="center"> Transitioning from Web Development to Data Science, Leveraing skills and passions for technological </h3>
+<h3 align="center"> Transitioning from Web Development to ML,Data Science, Leveraing skills and passions for technology </h3>
 
 
  - 🔭 I’m currently working on **upgrading myself**
