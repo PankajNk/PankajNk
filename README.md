@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pankaj Naik</h1>
-<h3 align="center"> Transitioning from Web Development to ML,Data Science, Leveraing skills and passions for technology </h3>
+<br>
+Experienced Ruby on Rails web Developer with a 2+ year track record of crafting robust and scalable application.
+Passionate about diving into the realm of machine learning , particulary NLP and constantly exploring diverse facets of ML space
+<br>
+Commited to continuous learning and pushing the boundaries of what technology can achieve 
+#NLP #MachineLearning #RubyOnRails #WebDevelopment 🚀🚀🚀
 
-
- - 🔭 I’m currently working on **upgrading myself**
-
-- 🌱 I’m currently learning **NLP,FastApi**
 
 <br>
 
